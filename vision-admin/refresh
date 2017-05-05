@@ -1,0 +1,13 @@
+
+                                                                  
+  [Symfony\Component\Console\Exception\CommandNotFoundException]  
+  Command "migrate-" is not defined.                              
+  Did you mean one of these?                                      
+      migrate                                                     
+      migrate:status                                              
+      migrate:refresh                                             
+      migrate:rollback                                            
+      migrate:install                                             
+      migrate:reset                                               
+                                                                  
+
